@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    overflow: 0;
+}
+
+.form_reg{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+    margin: 30vh;
+    background-color: aqua;
+}
+
+.input{
+    width: 100%;
+    padding: 0.4rem;
+    border-radius: 3px;
+    outline: none;
+    background-color: rgb(197, 197, 201);
+}
+
+form div{
+    margin-top: 1rem;
+}
+
+form button{
+    width: 100%;
+    background-color: rgb(83, 83, 88);
+    color: #fff;
+    border-radius: 3px;
+    padding: 0.3rem, 1;
+
+}
+
+form button:hover{
+    background-color: blue;
+}

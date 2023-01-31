@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="icon" href="./Images/Favicon.png">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <header>
+        <!--Header Starts-->
+        <!--Navbar-->
+        <nav>
+            <a href="https://mail.google.com/mail/&ogbl" target="_blank">Gmail</a>
+            <a href="https://www.google.com.ng/imghp?hl=en&ogbl" target="_blank">Images</a>
+            </li>
+            <img src="./Images/Apps icon.png" alt="" class="app">
+            <button>Sign in</button>
+        </nav>
+
+        <!--Banner-->
+
+        <section class="section-1">
+            <img src="./Images/googlelogo_color_272x92dp.png" class="logo" alt="google">
+            <form><br><br>
+                <div class="s-box">
+                    <img src="./Images/Search-removebg-preview.png" class="search-icon" alt="">
+                    <input type="text" class="s-input">
+                    <img src="./Images/Google mic.png" class="mic" alt="">
+                    <input type="submit" class="s-btn" value="Google Search">
+                    <input type="submit" class="s-btn" value="I'm Feeling Lucky">
+                </div>
+            </form>
+
+            <div class="lang">
+                Google offered in:
+                <a
+                    href="https://www.google.com/setprefs?sig=0_o0Z8ZsRiHDVPystVrmIlgi7uOCs%3D&hl=ha&source=homepage&sa=X&ved=0ahUKEwiCr7zW-_36AhUEC-wKHaHrD3gQ2ZgBCBI">Hausa</a>
+                <a
+                    href="https://www.google.com/setprefs?sig=0_o0Z8ZsRiHDVPystVrmIlgi7uOCs%3D&hl=ig&source=homepage&sa=X&ved=0ahUKEwiCr7zW-_36AhUEC-wKHaHrD3gQ2ZgBCBM">Igbo</a>
+                <a
+                    href="https://www.google.com/setprefs?sig=0_o0Z8ZsRiHDVPystVrmIlgi7uOCs%3D&hl=yo&source=homepage&sa=X&ved=0ahUKEwiCr7zW-_36AhUEC-wKHaHrD3gQ2ZgBCBQ">Ede
+                    Yoruba</a>
+                <a
+                    href="https://www.google.com/setprefs?sig=0_o0Z8ZsRiHDVPystVrmIlgi7uOCs%3D&hl=pcm&source=homepage&sa=X&ved=0ahUKEwiCr7zW-_36AhUEC-wKHaHrD3gQ2ZgBCBU">Nigerian
+                    Pidgin</a>
+            </div>
+        </section>
+
+        <!--Footer-->
+        <footer>
+            <h4>Nigeria</h4>
+            <div class="links">
+                <div class="links-1">
+                    <a
+                        href="https://about.google/?utm_source=google-NG&utm_medium=referral&utm_campaign=hp-footer&fg=1">About</a>
+                    <a
+                        href="https://www.google.com/intl/en_ng/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1">Advertising</a>
+                    <a
+                        href="https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1">Business</a>
+                    <a href="https://google.com/search/howsearchworks/?fg=1">How Search works</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </div>
+
+                <div class="links-2">
+                    <img src="./Images/Carbon icon.png" alt=""><a
+                        href="https://sustainability.google/carbon-free/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=">Carbon
+                        neutral since 2007</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </div>
+
+                <div class="links-3">
+                    <a href="https://policies.google.com/privacy?hl=en-NG&fg=1">Privacy</a>
+                    <a href="https://policies.google.com/terms?hl=en-NG&fg=1">Terms</a>
+                    <a href="https://support.google.com/accounts/answer/3118621?hl=en">Settings</a>
+                </div>
+            </div>
+        </footer>
+
+
+</body>
+
+</html>
